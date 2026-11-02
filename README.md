@@ -63,6 +63,7 @@ File and Folder Configuration Analysis Results
 
 <img width="1920" height="1200" alt="Screenshot 2026-11-02 104735" src="https://github.com/user-attachments/assets/044e42ef-438c-43ea-8303-642d12e5ad24" />
 
+![Uploading image.png…]()
 
 <img width="1920" height="1200" alt="Screenshot 2026-11-02 104816" src="https://github.com/user-attachments/assets/3ecf41fe-20b2-43db-98ba-2ce070239115" />
 
