@@ -1,5 +1,7 @@
 # Install Autopsy and Analyze the Disk File and Folder Configuration
-
+## NAME: SWARNA PRIYA S
+## REG.NO: 212225040447
+## DATE: 02.11.2026
 ## AIM
 To install **Autopsy** and use it to analyze the disk’s file and folder configuration for forensic investigation.
 
@@ -52,6 +54,18 @@ Export or recover files if required for the investigation.
 
 ## OUTPUT:
 File and Folder Configuration Analysis Results
+
+<img width="1920" height="1200" alt="Screenshot 2026-11-02 104121" src="https://github.com/user-attachments/assets/947fdbd0-e550-45f1-a8aa-af12a143cd20" />
+
+
+<img width="1920" height="1200" alt="Screenshot 2026-11-02 104700" src="https://github.com/user-attachments/assets/b7a435a9-5a68-4bd5-94c0-8fa942ec79c1" />
+
+
+<img width="1920" height="1200" alt="Screenshot 2026-11-02 104735" src="https://github.com/user-attachments/assets/044e42ef-438c-43ea-8303-642d12e5ad24" />
+
+
+<img width="1920" height="1200" alt="Screenshot 2026-11-02 104816" src="https://github.com/user-attachments/assets/3ecf41fe-20b2-43db-98ba-2ce070239115" />
+
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
